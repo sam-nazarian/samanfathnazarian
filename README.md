@@ -19,8 +19,6 @@ I'm currently in my third year studying computer science at the University of Wi
 
 ---
 
-NEW BRANCH GIT
-
 ## My Github Stats
 
 <img  width="400" alt="Saman's github stats" src="https://github-readme-stats.vercel.app/api?username=samanfathnazarian&show_icons=true&theme=merko">
