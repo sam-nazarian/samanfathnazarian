@@ -15,7 +15,7 @@ I'm currently in my third year studying computer science at the University of Wi
 - 💻: **Devops**: Git, Slack, GitHub
 - 🤔: **Others**: APIs, React Native, Discord bots
 - 🔧: **Experimenting now**: Design-Patterns, Artificial Intelligence, Information Theory, Building Complex Chess AI
-- 👐: Feel free to contact me at any time [Contact me](#contact-info)
+- 👐: Feel free to contact me at any time [Contact me](#contact-me)
 
 ---
 
@@ -29,7 +29,7 @@ I'm currently in my third year studying computer science at the University of Wi
 
 ## Contact Me
 
-<p id="contact-info">
+<p>
 
 <a href="https://www.samanfathnazarian.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" alt="samanfathnazarian.com" height="25" width="25" /> samanfathnazarian.com</a>
 
