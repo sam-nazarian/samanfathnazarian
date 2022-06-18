@@ -1,4 +1,4 @@
-<h1 align="Center">  Hey There, I'm Saman <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40px" /> </h1>
+<h1 align="Center">  Hey There, I'm Saman 👋</h1>
 
 I'm currently in my third year studying computer science at the University of Winnipeg 👨🏻‍🎓
 
