@@ -1,21 +1,21 @@
-<h1 align="Center">  Hey There, I'm Saman <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40px" /> </h1>
+<h1 align="center">Hello, I'm Saman 👋</h1>
 
-I'm currently in my third year studying computer science at the University of Winnipeg 👨🏻‍🎓
-
-👇Take a look at my website to see the projects that I have been working on<br/>
-<a href="https://www.samanfathnazarian.com">samanfathnazarian.com</a>
+<h3>Check Out My Portfolio 👉 <a href="https://imsaman.com/">https://imsaman.com</a></h3>
+<br />
+I'm a full-stack developer based in Canada with a B.Sc in Computer Science from the University of Winnipeg 👨🏻‍🎓
 
 ---
 
 ## What Can I Do?
 
-- ⚙️: **Back-end**: Node.js, Express.js, PostgreSQL, MySQL, MongoDB, Java, Spring
-- 📰: **Front-end**: HTML, React.js, CSS, SASS, bootstrap, Handlebars, Pug
-- 🔖: **General Purpose**: Java, JavaScript, Python, TypeScript
-- 💻: **Devops**: Git, Slack, GitHub
-- 🤔: **Others**: APIs, React Native, Discord bots
-- 🔧: **Experimenting now**: Design-Patterns, Artificial Intelligence, Information Theory, Building Complex Chess AI
-- 👐: Feel free to contact me at any time [Contact me](#contact-me)
+- 📰: **Front-end**: HTML, ReactJs, Redux, ReactRouter, NextJs, CSS, SASS, TailwindCSS, StyledComponents, Bootstrap, Handlebars, Pug, jQuery, Mapbox, Leaflet
+- ⚙️: **Back-end**: NodeJS, ExpressJS, PostgreSQL, MySQL, MongoDB, Mongoose, Firebase
+- 🔖: **General Purpose**: JavaScript, Java
+- 💻: **Tools**: Git, Slack, GitHub, VSCode, Postman
+- ☁️: **Cloud**: Google Cloud Platform, Netlify, Heroku, Railway
+- 🤔: **Others**: APIs, Figma, MVC Architecture, Webpack, Parcel
+- 🔧: **Experimenting now**: TypeScript, AWS, Socket.io, Design-Patterns, Information Theory
+- 👐: Have any projects or collaborations in mind that align with my skills? [Contact me](#my-github-stats)
 
 ---
 
@@ -29,12 +29,13 @@ I'm currently in my third year studying computer science at the University of Wi
 
 ## Contact Me
 
+<!-- Adding a paragraph to add space -->
 <p>
 
-<a href="https://www.samanfathnazarian.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" alt="samanfathnazarian.com" height="25" width="25" /> samanfathnazarian.com</a>
+<a href="https://imsaman.com"><img align="center" src="img/portfolio-icon.png" alt="Portfolio Icon" height="25" width="25" /> imsaman.com</a>
 
-<a href = "mailto: saman.nazarian17@gmail.com" target="_blank"><img align="center" src="img/email-icon.png" alt="saman.nazarian17@gmail.com" height="25" width="25" /> saman.nazarian17@gmail.com</a>
+<a href="mailto:saman.nazarian17@gmail.com" target="_blank"><img align="center" src="img/email-icon.png" alt="Email Icon" height="25" width="25" /> saman.nazarian17@gmail.com</a>
 
-<a href="https://www.linkedin.com/in/saman-fathnazarian/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Saman-Fathnazarian" height="25" width="25" /> Saman-Fathnazarian</a>
+<a href="https://www.linkedin.com/in/saman-fathnazarian/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Icon" height="25" width="25" /> Saman-Fathnazarian</a>
 
 </p>
