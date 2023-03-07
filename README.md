@@ -10,12 +10,12 @@ I'm a full-stack developer based in Canada with a B.Sc in Computer Science from 
 
 - 📰: **Front-end**: HTML, ReactJs, Redux, ReactRouter, NextJs, CSS, SASS, TailwindCSS, StyledComponents, Bootstrap, Handlebars, Pug, jQuery, Mapbox, Leaflet
 - ⚙️: **Back-end**: NodeJS, ExpressJS, PostgreSQL, MySQL, MongoDB, Mongoose, Firebase
-- 🔖: **General Purpose**: JavaScript, Java
-- 💻: **Tools**: Git, Slack, GitHub, VSCode, Postman
+- 🔖: **General Purpose**: JavaScript, Java, C, C#
+- 💻: **Tools**: Git, Slack, GitHub, Postman, VSCode, WebStorm, IntelliJ
 - ☁️: **Cloud**: Google Cloud Platform, Netlify, Heroku, Railway
-- 🤔: **Others**: APIs, Figma, MVC Architecture, Webpack, Parcel
+- 🤔: **Others**: APIs, Figma, WordPress, Shopify, MVC Architecture, Webpack, Parcel
 - 🔧: **Experimenting now**: TypeScript, AWS, Socket.io, Design-Patterns, Information Theory
-- 👐: Have any projects or collaborations in mind that align with my skills? [Contact me](#my-github-stats)
+- 👐: Have any projects or collaborations in mind that align with my skills? [Contact me](#contact-me)
 
 ---
 
