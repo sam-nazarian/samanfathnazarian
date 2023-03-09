@@ -9,7 +9,7 @@ I'm a full-stack developer based in Canada with a B.Sc in Computer Science from 
 ## What Can I Do?
 
 - 📰: **Front-end**: HTML, ReactJs, Redux, ReactRouter, NextJs, CSS, SASS, TailwindCSS, StyledComponents, Bootstrap, Handlebars, Pug, jQuery, Mapbox, Leaflet
-- ⚙️: **Back-end**: NodeJS, ExpressJS, PostgreSQL, MySQL, MongoDB, Mongoose, Firebase
+- ⚙️: **Back-end**: NodeJS, ExpressJS, PostgreSQL, MySQL, MongoDB, Firebase, RESTful APIs, Mongoose
 - 🔖: **General Purpose**: JavaScript, Java, C, C#
 - 💻: **Tools**: Git, Slack, GitHub, Postman, VSCode, WebStorm, IntelliJ
 - ☁️: **Cloud**: Google Cloud Platform, Netlify, Heroku, Railway
